@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="108" fill="#181514"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="#EC5B38" stroke-width="20" stroke-dasharray="24 12"/>
+  <!-- Central Nursing / Clinical Cross -->
+  <rect x="226" y="136" width="60" height="240" rx="16" fill="#EC5B38"/>
+  <rect x="136" y="226" width="240" height="60" rx="16" fill="#EC5B38"/>
+  <!-- Central Caduceus / Vitality Star -->
+  <circle cx="256" cy="256" r="38" fill="#FFFFFF"/>
+  <path d="M256 160 L264 248 L352 256 L264 264 L256 352 L248 264 L160 256 L248 248 Z" fill="#EC5B38" opacity="0.3"/>
+</svg>

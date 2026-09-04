@@ -1,0 +1,6 @@
+{
+  "name": "Oncology Nursing Reviewer",
+  "description": "Comprehensive NCLEX oncology study reviewer featuring clinical pathophysiology, diagnostic staging, lab values with visual spectra, clinical interventions, pharmacology active recall, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

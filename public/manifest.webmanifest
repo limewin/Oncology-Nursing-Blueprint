@@ -1,0 +1,31 @@
+{
+  "name": "Oncology Nursing Reviewer",
+  "short_name": "OncoReview",
+  "description": "Comprehensive NCLEX/PNLE Oncology Nursing Reviewer with 50-item Test Bank, dynamic analytics, and offline clinical study tools.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FCF2E5",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "./pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
